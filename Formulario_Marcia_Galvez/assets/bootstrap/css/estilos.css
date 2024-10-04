@@ -1,0 +1,40 @@
+
+        
+        .portada{
+            width: 1850px;
+            height: 400px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;      
+
+            
+        }
+        .p_portada{
+            text-align: center;
+            font-weight: normal;
+        }
+        body{
+            font-family: 'Comic Sans MS'
+        }
+        .forma{
+            margin-bottom: 50px;
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding-left: 80px ;
+        }
+        
+
+        .logo {
+            width: 100px;
+        }
+       
+        .container {
+            max-width: 500px; /* Ancho máximo del contenedor */
+            margin: 0 auto;   /* Centrar el contenedor en la página */
+            
+        }
+
+
+    
